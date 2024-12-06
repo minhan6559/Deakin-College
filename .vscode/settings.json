@@ -3,6 +3,7 @@
         "*.embeddedhtml": "html",
         "bitset": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "cstdint": "cpp"
     }
 }
