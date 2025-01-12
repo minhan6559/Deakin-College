@@ -4,6 +4,8 @@
         "bitset": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "cstdint": "cpp"
+        "cstdint": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp"
     }
 }
