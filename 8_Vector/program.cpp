@@ -1,3 +1,4 @@
+// Library
 #include "splashkit.h"
 #include <vector>
 using std::vector;
